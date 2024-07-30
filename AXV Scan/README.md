@@ -1,11 +1,11 @@
 # This is BETA tool!!!
 ------------------------
 <h2>Guide startup</h2>
-1. ```npm init -y```
-2. ```npm install body-parser crypto fs express```
-3. ```Make change on here
+```npm init -y```
+```npm install body-parser crypto fs express```
+```
+Make change on here
 const malwareSignatures = {
-  // PHP Backdoor https://github.com/backdoorhub/shell-backdoor-list
   "b03dbab41c207ac4cff71f4a9f35597e": "Malware 0byt3m1n1.php",
   "c34d778cd6666abdf31fc4a26d83a54c": "Malware ak47shell.php",
   "ea07a7b277e18fadcdffdea680cc9e87": "Malware alfa.php",
@@ -20,9 +20,7 @@ const malwareSignatures = {
   "fb8cc77da3ffe2c94f13ddd8e6cc9a4f": "Malware webadmin.php",
   "e7def61a3c8069ff4a6ee0ab0ef0b6ba": "Malware wordpress.php",
   "1be18354cc48be5faafb724b1d2e8ec0": "Malware wso.php",
-  
-  // Tambahkan lebih banyak tanda tangan di sini
 };
 ```
-4. ```node main.js```
-5. Open the link for localhost
+```node main.js```
+Open the link for localhost
