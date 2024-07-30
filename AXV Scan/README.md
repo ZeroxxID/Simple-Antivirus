@@ -2,11 +2,12 @@ This is BETA tool!!!
 ==========================
 Guide startup
 --------------------------
-1. ```npm init -y```
+1. Go to your script, named ***main.js*** location
+2. ```npm init -y```
 
-2. ```npm install body-parser crypto fs express```
+3. ```npm install body-parser crypto fs express```
 
-3. Make change on here
+4. Make change on here
   ```
   const malwareSignatures = {
     "b03dbab41c207ac4cff71f4a9f35597e": "Malware 0byt3m1n1.php",
