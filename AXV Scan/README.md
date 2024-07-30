@@ -27,5 +27,5 @@ Guide startup
   };
 ```
 
-4.```node main.js``` 
-5. Open the link for localhost
+5. Open your terminal and make sure your terminal in the ***main.js*** loaction and run ```node main.js``` 
+6. Open the link for localhost ```Example: http://localhost:3000/```
