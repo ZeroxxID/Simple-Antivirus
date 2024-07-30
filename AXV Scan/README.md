@@ -7,7 +7,7 @@ Guide startup
 
 3. ```npm install body-parser crypto fs express```
 
-4. Make change on here
+4. Make change on the ***MD5 Checksum*** [Malware Signature]
   ```
   const malwareSignatures = {
     "b03dbab41c207ac4cff71f4a9f35597e": "Malware 0byt3m1n1.php",
