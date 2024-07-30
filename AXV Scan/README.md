@@ -1,6 +1,5 @@
-# This is BETA tool!!!
+This is BETA tool!!!
 ==========================
-
 Guide startup
 --------------------------
 1. ```npm init -y```
