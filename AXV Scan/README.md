@@ -27,4 +27,5 @@ Guide startup
   };
 ```
 
-4.```node main.js``` 5. Open the link for localhost
+4.```node main.js``` 
+5. Open the link for localhost
