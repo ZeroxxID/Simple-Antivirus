@@ -3,10 +3,11 @@
 
 Guide startup
 --------------------------
-```npm init -y```
+1. ```npm init -y```
 
-```npm install body-parser crypto fs express```
+2. ```npm install body-parser crypto fs express```
 
+3.
 ```
 Make change on here
 const malwareSignatures = {
@@ -26,6 +27,7 @@ const malwareSignatures = {
   "1be18354cc48be5faafb724b1d2e8ec0": "Malware wso.php",
 };
 ```
-```node main.js```
 
-Open the link for localhost
+4.```node main.js```
+
+5. Open the link for localhost
