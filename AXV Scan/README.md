@@ -6,9 +6,8 @@ Guide startup
 
 2. ```npm install body-parser crypto fs express```
 
-3.
+3. Make change on here
 ```
-Make change on here
 const malwareSignatures = {
   "b03dbab41c207ac4cff71f4a9f35597e": "Malware 0byt3m1n1.php",
   "c34d778cd6666abdf31fc4a26d83a54c": "Malware ak47shell.php",
