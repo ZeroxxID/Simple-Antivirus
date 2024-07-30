@@ -4,7 +4,9 @@
 Guide startup
 --------------------------
 ```npm init -y```
+
 ```npm install body-parser crypto fs express```
+
 ```
 Make change on here
 const malwareSignatures = {
@@ -25,4 +27,5 @@ const malwareSignatures = {
 };
 ```
 ```node main.js```
+
 Open the link for localhost
